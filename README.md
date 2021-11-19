@@ -3,3 +3,6 @@ The following repository contains the games I have developed up to this point. A
 
 ## The Guiding Light
 *The Guiding Light* is a text adventure game that is meant as a first project for someone using Unity or C#. Although short, the game gives the user a variety of options to choose their path. The game makes use of several fundamental concepts in game development, including but not limited to: states, user input through keys, and changing states/text information using C# scripting.
+
+## Number Hacker
+*Number Hacker* is less of a game and more of an interactive UI. In this interactive UI, the user thinks of a number, the computer will then attempt to randomly guess this number. As the user you will then click the corresponding 'Higher' 'Lower' or 'Success' button based on the computer's guess. This project makes use of several more new fundamental concepts in game development, including but not limited to: updating variables through C# scripts, user input through the mouse, and writing functions in C# scripts.
